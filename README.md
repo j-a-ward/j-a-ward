@@ -3,8 +3,8 @@
 
 ## About Me
 - Google & ISTQB® Certified
-- Data-Driven Lead Generation • Traffic Acquisition • Agile QA
-- Optimizing Performance Systems To Eliminate Wasteful Spending
+- Data-Driven Lead Generation • Traffic Acquisition • Google Ads • Agile QA
+- I Help Optimize Performance Systems To Eliminate Wasteful Spending
 
 
 ## Technology Stack
