@@ -1,4 +1,4 @@
-# James Ward
+# <a href="https://www.linkedin.com/in/james-a-ward/">James Ward</a>
 **`Paid Search (PPC) & Quality Assurance (QA) Specialist`** 
 
 ## About Me
