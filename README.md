@@ -19,7 +19,9 @@
 | Google Analytics   | Certified Tester AT*SQA Test Automation                           |
 |               	   | Certified Tester AT*SQA API Testing                               |
 
-\*This list is not comprehensive
+
+***[Association for Testing and Software Quality Assurance (AT*SQA) Profile](https://atsqa.org/certified-testers/profile/aefd9dba85e84541b7fd7aadb7bbf23c) ***
+
 
 ## Projects - showcase
 
