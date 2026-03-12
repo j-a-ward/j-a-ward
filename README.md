@@ -20,7 +20,7 @@
 |               	   | Certified Tester AT*SQA API Testing                               |
 
 
-***[Association for Testing and Software Quality Assurance (AT*SQA) Profile](https://atsqa.org/certified-testers/profile/aefd9dba85e84541b7fd7aadb7bbf23c) ***
+***[Association for Testing & Software Quality Assurance (AT*SQA) Profile](https://atsqa.org/certified-testers/profile/aefd9dba85e84541b7fd7aadb7bbf23c) ***
 
 
 ## Projects - showcase
