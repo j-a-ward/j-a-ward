@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
+      <a href="https://github.com/j-a-ward/ppc-account-qa-framework">
         <img src="https://github.com/user-attachments/assets/ca229246-2779-402c-923f-48d42f979300"
              alt="PPC Account QA Framework "
              style="width:100%; height:300px; object-fit:cover;"/>
@@ -36,7 +36,7 @@
       <br/>
       <b>PPC Account QA Framework</b><br/>
       <sub>This framework outlines the evaluation process I use when building or auditing a Google Ads Search campaign.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      🔗 <a href="https://github.com/j-a-ward/ppc-account-qa-framework">Repo</a>
       <br/>
       <sub>Tags: Google Ads,</sub>
     </td>
