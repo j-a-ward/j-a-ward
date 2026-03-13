@@ -32,13 +32,13 @@
     <td align="center" width="33%">
       <a href="https://github.com/j-a-ward/ppc-account-qa-framework">
         <img src="https://github.com/user-attachments/assets/ca229246-2779-402c-923f-48d42f979300"
-             alt="PPC Account QA Framework "
+             alt="PPC Account QA Framework"
              style="width:100%; height:300px; object-fit:cover;"/>
       </a>
       <br/>
       <b>PPC Account QA Framework</b><br/>
       <sub>This framework outlines the evaluation process I use when building and auditing Google Ads Search campaigns.</sub><br/>
-      🔗 <a href="https://github.com/j-a-ward/ppc-account-qa-framework">Repo</a>
+      🔗 <a href="https://github.com/j-a-ward/ppc-account-qa-framework">View Repository</a>
       <br/>
       <sub>Tags: Google Ads, Keyword Planner, Exclusion List, Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
     </td>
