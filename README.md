@@ -38,7 +38,7 @@
       <sub>This framework outlines the evaluation process I use when building or auditing Google Ads Search campaigns.</sub><br/>
       🔗 <a href="https://github.com/j-a-ward/ppc-account-qa-framework">Repo</a>
       <br/>
-      <sub>Tags: Google Ads, Keyword Planner, Exclusion List, Negative Keyword List, Bid Strategy</sub>
+      <sub>Tags: Google Ads, Keyword Planner, Exclusion List, Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
     </td>
   </tr>
 </table>
