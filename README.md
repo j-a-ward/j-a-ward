@@ -23,7 +23,7 @@
 ***[Association for Testing & Software Quality Assurance (AT*SQA) Profile](https://atsqa.org/certified-testers/profile/aefd9dba85e84541b7fd7aadb7bbf23c) ***
 
 
-## Projects
+## Project
 
 <table>
   <tr>
