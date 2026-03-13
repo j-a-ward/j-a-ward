@@ -23,7 +23,7 @@
 ***[Association for Testing & Software Quality Assurance (AT*SQA) Profile](https://atsqa.org/certified-testers/profile/aefd9dba85e84541b7fd7aadb7bbf23c) ***
 
 
-## Project
+## Projects
 
 <table>
   <tr>
@@ -40,5 +40,23 @@
       <br/>
       <sub>Tags: Google Ads, Keyword Planner, Exclusion List, Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
+        <img src="https://github.com/user-attachments/assets/67cae20a-340d-45eb-9cab-85d216849b20"
+             alt="Sample Google Ads Account Structure Workbook"
+             style="width:100%; height:300px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Sample Google Ads Account Structure Workbook</b><br/>
+      <sub>Built a Google Ads Search campaign architecture for a local service business.</sub><br/>
+      🔗 <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">View Workbook</a>
+      <br/>
+      <sub>Tags: Google Ads, Keyword Planner, Exclusion List, Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
+   </td>
   </tr>
 </table>
