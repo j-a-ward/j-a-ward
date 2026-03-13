@@ -29,9 +29,9 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+        <img src="https://github.com/user-attachments/assets/ca229246-2779-402c-923f-48d42f979300"
              alt="PPC Account QA Framework "
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:400px; object-fit:cover;"/>
       </a>
       <br/>
       <b>PPC Account QA Framework</b><br/>
