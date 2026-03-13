@@ -31,7 +31,7 @@
       <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
         <img src="https://github.com/user-attachments/assets/ca229246-2779-402c-923f-48d42f979300"
              alt="PPC Account QA Framework "
-             style="width:100%; height:400px; object-fit:cover;"/>
+             style="width:100%; height:300px; object-fit:cover;"/>
       </a>
       <br/>
       <b>PPC Account QA Framework</b><br/>
