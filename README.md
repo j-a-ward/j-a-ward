@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/james-a-ward/">James Ward</a>
+# James Ward
 **`Paid Search (PPC) & Quality Assurance (QA) Specialist`** 
 
 ## About Me
@@ -6,7 +6,7 @@
 - Background in QA, testing functionality and UI across web and mobile applications.
 - Expertise in building and auditing Google Ads Search campaigns, utilizing proper account structure and best practices.
 - Data-driven lead generation, traffic acquisition, Google Ads, & Agile QA.
-- Helping optimize performance systems to eliminate wasteful spending.
+- Optimizing performance systems to eliminate wasteful spending.
 
 
 ## Technology Stack
