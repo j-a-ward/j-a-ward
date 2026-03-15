@@ -22,7 +22,7 @@
 |------------------- |-----------------------------------------------------------------  |
 | Google Ads Search  | Certified Tester Advanced Level Agile Technical Tester (CTAL-ATT) |
 | Google Analytics   | Certified Tester AT*SQA Test Automation                           |
-|               	   | Certified Tester AT*SQA API Testing                               |
+|                    | Certified Tester AT*SQA API Testing                               |
 
 
 🔗 [Association for Testing & Software Quality Assurance (AT*SQA) Profile](https://atsqa.org/certified-testers/profile/aefd9dba85e84541b7fd7aadb7bbf23c)
