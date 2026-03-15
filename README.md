@@ -73,7 +73,7 @@
       </a>
       <br/>
       <b>SEO Audit Document</b><br/>
-      <sub>Conducted a comprehensive technical SEO, on-page SEO, and competitive analysis audit</sub><br/> 
+      <sub>Conducted a comprehensive on-page SEO, technical SEO, and competitive analysis audit</sub><br/> 
       <sub>to identify crawlability, metadata, and content hierarchy issues.</sub><br/>
       🔗 <a href="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing">View Document</a>
       <br/>
