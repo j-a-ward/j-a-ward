@@ -1,7 +1,7 @@
 # James Ward
 **`Paid Search (PPC) & Quality Assurance (QA) Specialist`** 
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjames-a-ward%2F)
+[![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjames-a-ward%2F)](https://www.linkedin.com/in/james-a-ward/)
 
 ## About Me
 
