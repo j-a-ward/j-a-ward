@@ -71,11 +71,11 @@
     <td align="center" width="33%">
       <a href="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/main/pexels-pixabay-267415.jpg?raw=true" 
-             alt="SEO Audit Document"
+             alt="SEO Audit Report"
              style="width:100%; height:300px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>SEO Audit Document</b><br/>
+      <b>SEO Audit Report</b><br/>
       <sub>Conducted a comprehensive on-page and technical SEO audit to identify crawlability, metadata, and content hierarchy issues.</sub><br/>
       🔗 <a href="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing">View Document</a>
       <br/>
