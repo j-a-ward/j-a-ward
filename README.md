@@ -13,7 +13,7 @@
 
 
 ## Technology Stack
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,github,debian,html,mint,kali,postman,bash,androidstudio,gmail,apple,windows&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,github,debian,html,mint,kali,postman,bash,androidstudio,apple,windows&theme=dark)](https://skillicons.dev)
 
 
 ## Industry Certification Highlights
