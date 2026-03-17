@@ -8,7 +8,7 @@
 - Google & ISTQB® Certified
 - Background in Quality Assurance, testing functionality and UI across web and mobile applications.
 - Expertise in building and auditing Google Ads Search campaigns, utilizing proper account structure and best practices.
-- Data-driven lead generation, traffic acquisition, Google Ads, & Agile QA.
+- Data-driven lead generation, traffic acquisition, & Agile QA.
 - Optimizing performance systems to eliminate wasteful spending.
 
 
