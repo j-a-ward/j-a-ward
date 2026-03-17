@@ -36,7 +36,7 @@
       <a href="https://github.com/j-a-ward/ppc-account-qa-framework">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/9ec0449618bf983577dd652a3bdde4d67a971fcf/images/justin-morgan-VxLhYXuLQN8-unsplash.jpg"
              alt="PPC Account QA Framework"
-             style="width:100%; height:300px; object-fit:cover;"/>
+             style="width:100%; height:560px; object-fit:cover;"/>
       </a>
       <br/>
       <b>PPC Account QA Framework</b><br/>
@@ -54,7 +54,7 @@
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/9ec0449618bf983577dd652a3bdde4d67a971fcf/images/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg"
              alt="Sample Google Ads Account Structure Workbook"
-             style="width:100%; height:300px; object-fit:cover;"/>
+             style="width:100%; height:605px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Sample Google Ads Account Structure Workbook</b><br/>
@@ -72,11 +72,11 @@
       <a href="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/2330c4181b5bcb3a3ad79235767f2954d7e0ffe5/images/pexels-pixabay-267415.jpg" 
              alt="SEO Audit Report"
-             style="width:100%; height:300px; object-fit:cover;"/>
+             style="width:100%; height:558px; object-fit:cover;"/>
       </a>
       <br/>
       <b>SEO Audit Report</b><br/>
-      <sub>Conducted a comprehensive on-page and technical SEO audit to identify crawlability, metadata, and content hierarchy issues.</sub><br/>
+      <sub>Conducted a comprehensive on-page and technical SEO audit with competitive analysis to identify crawlability, metadata, and content hierarchy issues.</sub><br/>
       🔗 <a href="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing">View Report</a>
       <br/>
       <sub>Tags: SEMRush, Moz, Screaming Frog SEO Spider Website Crawler, Title & H1 Tags, Meta Descriptions, SERP, Response Codes</sub>
