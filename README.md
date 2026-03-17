@@ -20,7 +20,7 @@
 
 | Google             | ISTQB® / AT*SQA                                                   |
 |------------------- |-----------------------------------------------------------------  |
-| Google Ads Search  | Certified Tester Advanced Level Agile Technical Tester (CTAL-ATT) |
+| Google Ads Search  | Certified Tester Advanced Level Agile Technical Tester            |
 | Google Analytics   | Certified Tester AT*SQA Test Automation                           |
 |                    | Certified Tester AT*SQA API Testing                               |
 
