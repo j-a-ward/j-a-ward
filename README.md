@@ -36,7 +36,7 @@
       <a href="https://github.com/j-a-ward/ppc-account-qa-framework">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/9ec0449618bf983577dd652a3bdde4d67a971fcf/images/justin-morgan-VxLhYXuLQN8-unsplash.jpg"
              alt="PPC Account QA Framework"
-             style="width:75%; height:300px; object-fit:cover;"/>
+             style="width:100%; height:300px; object-fit:cover;"/>
       </a>
       <br/>
       <b>PPC Account QA Framework</b><br/>
