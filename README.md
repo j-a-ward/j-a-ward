@@ -53,11 +53,11 @@
     <td align="center" width="33%">
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/9ec0449618bf983577dd652a3bdde4d67a971fcf/images/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg"
-             alt="Sample Google Ads Account Structure Workbook"
+             alt="Google Ads Account Structure Workbook"
              style="width:100%; height:340px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Sample Google Ads Account Structure Workbook</b><br/>
+      <b>Google Ads Account Structure Workbook</b><br/>
       <sub>Built a Google Ads Search campaign architecture for a local service business.</sub><br/>
       🔗 <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">View Workbook</a>
       <br/>
