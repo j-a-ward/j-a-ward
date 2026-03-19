@@ -8,7 +8,7 @@
 - Google Ads Search and Analytics Certified professional specializing in paid search (PPC) management.
 - Applying QA expertise from testing web and mobile applications to validating search campaigns, ensuring seamless user interaction.
 - Building and auditing Google Ads Search campaigns using proper account structures and best practices.
-- Approaching PPC accounts as performance systems utilizing a QA framework, eliminating wasteful spend through data-driven adjustments.
+- Approaching PPC accounts as performance systems utilizing a QA framework, eliminating wasteful spending through data-driven adjustments.
 
 
 
