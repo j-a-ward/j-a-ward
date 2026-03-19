@@ -1,15 +1,15 @@
 # James Ward
-**`Paid Search (PPC) Specialist`** 
+**`Paid Search (PPC) & Digital Marketing Specialist`** 
 
 [![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjames-a-ward%2F)](https://www.linkedin.com/in/james-a-ward/)
 
 ## About Me
 
-- Google & ISTQB® Certified
-- Background in Quality Assurance, testing functionality and UI across web and mobile applications.
-- Experience in building and auditing Google Ads Search campaigns, utilizing proper account structure and best practices.
-- Data-driven lead generation, traffic acquisition, & Agile QA.
-- Optimizing performance systems to eliminate wasteful spending.
+- Google Ads Search and Analytics Certified professional with proven ability to manage paid search accounts.
+- Applying QA expertise from testing web and mobile applications to validating search campaigns, ensuring seamless user interaction.
+- Building and auditing Google Ads Search campaigns using proper account structures and best practices.
+- Approaching PPC campaigns as performance systems with a QA engineering mindset, eliminating wasteful spend through data-driven adjustments.
+
 
 
 ## Skill Stack
