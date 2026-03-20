@@ -41,7 +41,7 @@
       </a>
       <br/>
       <b>PPC Account QA Framework</b><br/>
-      <sub>Developed a framework for creating and auditing high-performing PPC campaigns.</sub><br/>
+      <sub>Developed a framework to build and audit high-performing PPC campaigns.</sub><br/>
       🔗 <a href="https://github.com/j-a-ward/ppc-account-qa-framework">View Repository</a>
       <br/>
       <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
