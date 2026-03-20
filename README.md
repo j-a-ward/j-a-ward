@@ -41,7 +41,7 @@
       </a>
       <br/>
       <b>PPC Account QA Framework</b><br/>
-      <sub>This framework outlines the evaluation process I use when building and auditing Google Ads Search campaigns.</sub><br/>
+      <sub>Developed a framework for creating and auditing high-performing PPC campaigns..</sub><br/>
       🔗 <a href="https://github.com/j-a-ward/ppc-account-qa-framework">View Repository</a>
       <br/>
       <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
@@ -59,7 +59,7 @@
       </a>
       <br/>
       <b>Google Ads Account Structure Workbook</b><br/>
-      <sub>Built a Google Ads Search campaign architecture for a local service business.</sub><br/>
+      <sub>Built a Google Ads Search campaign structure for a local service business.</sub><br/>
       🔗 <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">View Workbook</a>
       <br/>
       <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
