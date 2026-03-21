@@ -7,7 +7,7 @@
 
 - Google Ads Certified professional specializing in paid search (PPC) management.
 - Applying Agile QA methodology to validate search engine marketing (SEM), ensuring seamless user interaction.
-- Building and auditing Google Ads Search campaigns using proper account structures and best practices.
+- Building and auditing Google Ads Search campaigns using proper account structure and best practices.
 - Approaching PPC accounts as performance systems utilizing a QA framework, eliminating wasteful spending.
 
 
