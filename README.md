@@ -80,7 +80,7 @@
       <sub>Conducted a comprehensive on-page and technical SEO audit to identify crawlability, metadata, and content hierarchy issues.</sub><br/>
       🔗 <a href="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing">View Report</a>
       <br/>
-      <sub>Tags: SEMRush, Moz, Screaming Frog SEO Spider Website Crawler, Title & H1 Tags, Meta Descriptions, SERP, Response Codes</sub>
+      <sub>Tags: Google Search Console (GSC), Moz, Screaming Frog SEO Spider, PageSpeed Insights, Rich Results Test, Chrome DevTools</sub>
    </td>
   </tr>
 </table>
