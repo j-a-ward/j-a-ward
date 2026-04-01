@@ -25,11 +25,10 @@
 | Google Analytics   | Certified Tester AT*SQA Test Automation                           |
 |                    | Certified Tester AT*SQA API Testing                               |
 
+*This list is not comprehensive
 
-🔗 [Association for Testing & Software Quality Assurance (AT*SQA) Profile](https://atsqa.org/certified-testers/profile/aefd9dba85e84541b7fd7aadb7bbf23c)
 
-
-## Projects
+## Framework and Use Cases
 
 <table>
   <tr>
@@ -54,11 +53,11 @@
     <td align="center" width="33%">
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/9ec0449618bf983577dd652a3bdde4d67a971fcf/images/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg"
-             alt="Google Ads Account Structure Workbook"
+             alt="Use Case: Google Ads Account Structure Workbook"
              style="width:100%; height:340px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Google Ads Account Structure Workbook</b><br/>
+      <b>Use Case: Google Ads Account Structure Workbook</b><br/>
       <sub>Built a Google Ads Search campaign structure for a local service business.</sub><br/>
       🔗 <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">View Workbook</a>
       <br/>
@@ -72,11 +71,11 @@
     <td align="center" width="33%">
       <a href="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/2330c4181b5bcb3a3ad79235767f2954d7e0ffe5/images/pexels-pixabay-267415.jpg" 
-             alt="SEO Audit Report"
+             alt="Use Case: SEO Audit Report"
              style="width:100%; height:300px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>SEO Audit Report</b><br/>
+      <b>Use Case: SEO Audit Report</b><br/>
       <sub>Conducted a comprehensive on-page and technical SEO audit to identify crawlability, metadata, and content hierarchy issues.</sub><br/>
       🔗 <a href="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing">View Report</a>
       <br/>
