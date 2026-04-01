@@ -1,7 +1,7 @@
 # James Ward
 **`Paid Search (PPC) Specialist`** 
 
-[![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjames-a-ward%2F)](https://www.linkedin.com/in/james-a-ward/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-a-ward/) &nbsp;
 
 ## About Me
 
