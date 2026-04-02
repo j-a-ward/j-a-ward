@@ -62,7 +62,9 @@
       <br/>
       <b>Use Case: Google Ads Account Structure Workbook</b><br/>
       <sub>Built a Google Ads Search campaign structure for a local service business.</sub><br/>
-      🔗 <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">View Workbook</a>
+      <b></b><br/>
+      <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
+      <img src="https://img.shields.io/badge/View_Workbook-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"  alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/></a>
       <br/>
       <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
    </td>
