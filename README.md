@@ -44,7 +44,7 @@
       <sub>Developed a framework to build and audit high-performing PPC campaigns.</sub><br/>
       <b></b><br/>
         <a href="https://github.com/j-a-ward/ppc-account-qa-framework">
-          <img src="https://img.shields.io/badge/View_Repository-%230077B5.svg?&style=flat&logoColor=white"  
+          <img src="https://img.shields.io/badge/View_Repository-%230077B5.svg?&style=for-the-badge&logoColor=white"  
             alt="https://github.com/j-a-ward/ppc-account-qa-framework"/></a>
       <br/>
       <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
@@ -65,7 +65,7 @@
       <sub>Built a Google Ads Search campaign structure for a local service business.</sub><br/>
       <b></b><br/>
         <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
-          <img src="https://img.shields.io/badge/View_Workbook-%230077B5.svg?&style=flat&logoColor=white"
+          <img src="https://img.shields.io/badge/View_Workbook-%230077B5.svg?&style=for-the-badge&logoColor=white"
             alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/></a>
       <br/>
       <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
@@ -86,7 +86,7 @@
       <sub>Conducted a comprehensive on-page and technical SEO audit to identify crawlability, metadata, and content hierarchy issues.           </sub><br/>
       <b></b><br/>
         <a href="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing">
-          <img src="https://img.shields.io/badge/View_Report-%230077B5.svg?&style=flat&logoColor=white"
+          <img src="https://img.shields.io/badge/View_Report-%230077B5.svg?&style=for-the-badge&logoColor=white"
             alt="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing"/></a>
       <br/>
       <sub>Tags: Google Search Console, Moz, Screaming Frog SEO Spider, PageSpeed Insights, Rich Results Test, Chrome DevTools, SERP</sub>
