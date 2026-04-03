@@ -31,6 +31,8 @@
 
 ## Framework and Use Cases
 
+### PPC Account QA Framework
+
 <table>
   <tr>
     <td align="center" width="33%">
@@ -40,7 +42,6 @@
              style="width:100%; height:300px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>PPC Account QA Framework</b><br/>
       <sub>Developed a framework to build and audit high-performing PPC campaigns.</sub><br/>
       <b></b><br/>
         <a href="https://github.com/j-a-ward/ppc-account-qa-framework">
@@ -52,6 +53,8 @@
   </tr>
 </table>
 
+### Use Case: Google Ads Account Structure Workbook
+
 <table>
   <tr>
     <td align="center" width="33%">
@@ -61,7 +64,6 @@
              style="width:100%; height:340px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Use Case: Google Ads Account Structure Workbook</b><br/>
       <sub>Built a Google Ads Search campaign structure for a local service business.</sub><br/>
       <b></b><br/>
         <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
@@ -73,6 +75,8 @@
   </tr>
 </table>
 
+### Use Case: SEO Audit Report
+
 <table>
   <tr>
     <td align="center" width="33%">
@@ -82,7 +86,6 @@
              style="width:100%; height:300px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Use Case: SEO Audit Report</b><br/>
       <sub>Conducted a comprehensive on-page and technical SEO audit to identify crawlability, metadata, and content hierarchy issues.           </sub><br/>
       <b></b><br/>
         <a href="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing">
