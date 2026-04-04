@@ -42,16 +42,15 @@
              alt="PPC Account QA Framework"
              style="width:100%; height:300px; object-fit:cover;"/>
       </a>
-      <br/>
-      <sub>Developed a framework to build and audit high-performing PPC campaigns.</sub><br/>
+      <br/> 
       <b></b><br/>
         <a href="https://github.com/j-a-ward/ppc-account-qa-framework">
           <img src="https://img.shields.io/badge/View_Repository-%230077B5.svg?&style=for-the-badge&logoColor=white"  
             alt="https://github.com/j-a-ward/ppc-account-qa-framework"/></a>
-      <br/>
-      <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
       <b></b><br/>
-      <b>          </b><br/>
+      <b>Developed a framework to build and audit high-performing PPC campaigns.</b><br/>
+      <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search                 Ads</sub><br/>
+      <b></b><br/>
     </td>
   </tr>
 </table>
@@ -68,15 +67,14 @@
              style="width:100%; height:340px; object-fit:cover;"/>
       </a>
       <br/>
-      <sub>Built a Google Ads Search campaign structure for a local service business.</sub><br/>
       <b></b><br/>
         <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
           <img src="https://img.shields.io/badge/View_Workbook-%230077B5.svg?&style=for-the-badge&logoColor=white"
             alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/></a>
-      <br/>
-      <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
       <b></b><br/>
-      <b>          </b><br/>
+      <b>Built a Google Ads Search campaign structure for a local service business.</b><br/>
+      <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search                 Ads</sub><br/>
+      <b></b><br/>
    </td>
   </tr>
 </table>
@@ -93,15 +91,14 @@
              style="width:100%; height:300px; object-fit:cover;"/>
       </a>
       <br/>
-      <sub>Conducted a comprehensive on-page and technical SEO audit to identify crawlability, metadata, and content hierarchy issues.           </sub><br/>
       <b></b><br/>
         <a href="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing">
           <img src="https://img.shields.io/badge/View_Report-%230077B5.svg?&style=for-the-badge&logoColor=white"
             alt="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing"/></a>
-      <br/>
-      <sub>Tags: Google Search Console, Moz, Screaming Frog SEO Spider, PageSpeed Insights, Rich Results Test, Chrome DevTools, SERP</sub>
       <b></b><br/>
-      <b>          </b><br/>
+      <b>Conducted an on-page and technical SEO audit to identify content hierarchy issues.</b><br/>
+      <sub>Tags: Google Search Console, Moz, Screaming Frog SEO Spider, PageSpeed Insights, Rich Results Test, Chrome DevTools, SERP</sub><br/>
+      <b></b><br/>
    </td>
   </tr>
 </table>
