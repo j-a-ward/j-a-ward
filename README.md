@@ -50,6 +50,8 @@
             alt="https://github.com/j-a-ward/ppc-account-qa-framework"/></a>
       <br/>
       <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
+      <b></b><br/>
+      <b>          </b><br/>
     </td>
   </tr>
 </table>
@@ -73,6 +75,8 @@
             alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/></a>
       <br/>
       <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
+      <b></b><br/>
+      <b>          </b><br/>
    </td>
   </tr>
 </table>
@@ -96,6 +100,8 @@
             alt="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing"/></a>
       <br/>
       <sub>Tags: Google Search Console, Moz, Screaming Frog SEO Spider, PageSpeed Insights, Rich Results Test, Chrome DevTools, SERP</sub>
+      <b></b><br/>
+      <b>          </b><br/>
    </td>
   </tr>
 </table>
