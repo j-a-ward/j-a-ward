@@ -1,6 +1,6 @@
 # James Ward
 
-### Paid Search (PPC) Specialist
+### Paid Search (PPC) Analyst
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Follow-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-a-ward/) &nbsp; [![Google Ads](https://img.shields.io/badge/Google_Ads-Certified-4285F4.svg?style=for-the-badge&logo=googleads)](https://skillshop.credential.net/81dea569-a301-4cc2-ba31-8b9296872c85#acc.CcUoe6Mi) &nbsp; [![ISTQB® / AT*SQA](https://img.shields.io/badge/ISTQB®_/_AT*SQA-Certified-EA4335.svg?&style=for-the-badge)](https://atsqa.org/certified-testers/profile/aefd9dba85e84541b7fd7aadb7bbf23c) &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?&style=for-the-badge)](https://github.com/j-a-ward/j-a-ward/blob/dd70cbe146bc005e626323301aa7a2fb795f2869/LICENSE)
 
