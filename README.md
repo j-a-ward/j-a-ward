@@ -40,7 +40,7 @@
       <a href="https://github.com/j-a-ward/ppc-account-qa-framework">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/9ec0449618bf983577dd652a3bdde4d67a971fcf/images/justin-morgan-VxLhYXuLQN8-unsplash.jpg"
              alt="PPC Account QA Framework"
-             style="width:100%; height:300px; object-fit:cover;"/>
+             style="object-fit: cover; border-radius: 8px;"/>
       </a>
       <br/> 
       <b></b><br/>
@@ -48,8 +48,8 @@
           <img src="https://img.shields.io/badge/View_Repository-%230077B5.svg?&style=for-the-badge&logoColor=white"  
             alt="https://github.com/j-a-ward/ppc-account-qa-framework"/></a>
       <b></b><br/>
-      <b>Developed a framework to build and audit high-performing PPC campaigns.</b><br/>
-      <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search                 Ads</sub><br/>
+      <strong>Developed a framework to build and audit high-performing PPC campaigns.</strong><br/>
+      <small>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search                 Ads</small><br/>
       <b></b><br/>
     </td>
   </tr>
