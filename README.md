@@ -48,8 +48,8 @@
           <img src="https://img.shields.io/badge/View_Repository-%230077B5.svg?&style=for-the-badge&logoColor=white"  
             alt="https://github.com/j-a-ward/ppc-account-qa-framework"/></a>
       <b></b><br/>
-      <strong>Developed a framework to build and audit high-performing PPC campaigns.</strong><br/>
-      <small>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search                 Ads</small><br/>
+      <b>Developed a framework to build and audit high-performing PPC campaigns.</b><br/>
+      <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search                 Ads</sub><br/>
       <b></b><br/>
     </td>
   </tr>
@@ -72,8 +72,8 @@
           <img src="https://img.shields.io/badge/View_Workbook-%230077B5.svg?&style=for-the-badge&logoColor=white"
             alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/></a>
       <b></b><br/>
-      <strong>Built a Google Ads Search campaign structure for a local service business.</strong><br/>
-      <small>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search                 Ads</small><br/>
+      <b>Built a Google Ads Search campaign structure for a local service business.</b><br/>
+      <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search                 Ads</sub><br/>
       <b></b><br/>
    </td>
   </tr>
@@ -96,8 +96,8 @@
           <img src="https://img.shields.io/badge/View_Report-%230077B5.svg?&style=for-the-badge&logoColor=white"
             alt="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing"/></a>
       <b></b><br/>
-      <strong>Conducted an on-page and technical SEO audit to identify content hierarchy issues.</strong><br/>
-      <small>Tags: Google Search Console, Moz, Screaming Frog SEO Spider, PageSpeed Insights, Rich Results Test, Chrome DevTools, SERP</small><br/>
+      <b>Conducted an on-page and technical SEO audit to identify content hierarchy issues.</b><br/>
+      <sub>Tags: Google Search Console, Moz, Screaming Frog SEO Spider, PageSpeed Insights, Rich Results Test, Chrome DevTools, SERP</sub><br/>
       <b></b><br/>
    </td>
   </tr>
