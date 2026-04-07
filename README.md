@@ -8,7 +8,7 @@
 
 - Google Ads Certified Professional with a data-driven, process-oriented approach to search engine marketing (SEM).
 - Experienced in building, analyzing, and optimizing Google Ads Search campaigns using structured account architecture and search query analysis.
-- Background in Agile quality assurance (ISTQB CTAL-ATT), applying analytical thinking to validate performance and reduce wasted ad spend.
+- Background in Agile Quality Assurance (ISTQB CTAL-ATT), applying analytical thinking to validate performance and reduce wasted ad spend.
 - Passionate about improving campaign efficiency, lead quality, and measurable business outcomes through continuous optimization.
 
 
