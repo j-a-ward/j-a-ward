@@ -29,7 +29,7 @@
 *This list is not comprehensive
 
 
-## Framework and Use Cases
+## Framework and Documentation
 
 ### PPC Account QA Framework
 
@@ -53,19 +53,19 @@
   </tr>
 </table>
 
-### Use Case: Google Ads Account Structure Implementation 
+### Google Ads Account Structure Implementation 
 
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/9ec0449618bf983577dd652a3bdde4d67a971fcf/images/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg"
-             alt="Use Case: Google Ads Account Structure Implementation"
+             alt="Google Ads Account Structure Implementation"
              style="object-fit: cover; border-radius: 8px;"/>
       </a>
       <br/>
         <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
-          <img src="https://img.shields.io/badge/View_Project-%230077B5.svg?&style=for-the-badge&logoColor=white"
+          <img src="https://img.shields.io/badge/View_Implementation-%230077B5.svg?&style=for-the-badge&logoColor=white"
             alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/>
         </a>
       <br/>
@@ -75,14 +75,14 @@
   </tr>
 </table>
 
-### Use Case: SEO Audit Report
+### SEO Audit Report
 
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/2330c4181b5bcb3a3ad79235767f2954d7e0ffe5/images/pexels-pixabay-267415.jpg" 
-             alt="Use Case: SEO Audit Report"
+             alt="SEO Audit Report"
              style="object-fit: cover; border-radius: 8px;"/>
       </a>
       <br/>
