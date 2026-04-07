@@ -6,10 +6,10 @@
 
 ## About Me
 
-- Google Ads Certified Professional specializing in paid search (PPC) management.
-- Applying Agile QA methodology to validate search engine marketing (SEM), improving reliability and user-experience alignment.
-- Building and auditing Google Ads Search campaigns using proper account structure and best practices.
-- Approaching PPC accounts as performance systems utilizing a QA framework to eliminate wasteful spending.
+- Google Ads Certified Professional with a data-driven, process-oriented approach to search engine marketing (SEM).
+- Experienced in building, analyzing, and optimizing Google Ads Search campaigns using structured account architecture and search query analysis.
+- Background in Agile quality assurance (ISTQB CTAL-ATT), applying analytical thinking to validate performance and reduce wasted ad spend.
+- Passionate about improving campaign efficiency, lead quality, and measurable business outcomes through continuous optimization.
 
 
 
