@@ -40,7 +40,7 @@
       </a>
       <br/> 
         <a href="https://github.com/j-a-ward/ppc-account-qa-framework">
-          <img src="https://img.shields.io/badge/View_Repository-%230077B5.svg?&style=for-the-badge&logoColor=white"  
+          <img src="https://img.shields.io/badge/View_Framework-%230077B5.svg?&style=for-the-badge&logoColor=white"  
             alt="https://github.com/j-a-ward/ppc-account-qa-framework"/>
         </a>
       <br/>
