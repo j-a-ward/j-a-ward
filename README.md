@@ -28,10 +28,7 @@
 
 *This list is not comprehensive
 
-
-## Framework, Implementation, & Audit
-
-### PPC Account QA Framework
+## PPC Account QA Framework
 
 <table>
   <tr>
@@ -53,7 +50,7 @@
   </tr>
 </table>
 
-### Google Ads Account Structure Implementation 
+## Google Ads Account Structure Implementation 
 
 <table>
   <tr>
@@ -75,7 +72,7 @@
   </tr>
 </table>
 
-### SEO Audit
+## SEO Audit
 
 <table>
   <tr>
