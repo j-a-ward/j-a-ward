@@ -75,19 +75,19 @@
   </tr>
 </table>
 
-### SEO Audit Report
+### SEO Audit
 
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/2330c4181b5bcb3a3ad79235767f2954d7e0ffe5/images/pexels-pixabay-267415.jpg" 
-             alt="SEO Audit Report"
+             alt="SEO Audit"
              style="object-fit: cover; border-radius: 8px;"/>
       </a>
       <br/>
         <a href="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing">
-          <img src="https://img.shields.io/badge/View_Report-%230077B5.svg?&style=for-the-badge&logoColor=white"
+          <img src="https://img.shields.io/badge/View_Audit-%230077B5.svg?&style=for-the-badge&logoColor=white"
             alt="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing"/>
         </a>
       <br/>
