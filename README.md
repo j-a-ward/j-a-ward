@@ -16,7 +16,7 @@
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,github,debian,html,mint,kali,postman,bash,androidstudio,apple,windows&theme=dark)](https://skillicons.dev)
 
-*This list is not comprehensive
+*This is not a comprehensive list
 
 ## Industry Certification Highlights
 
