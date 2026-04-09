@@ -13,10 +13,10 @@
 
 
 
-
-## Platforms and Tools
+## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,github,debian,html,mint,kali,postman,bash,androidstudio,apple,windows&theme=dark)](https://skillicons.dev)
 
+*This list is not comprehensive
 
 ## Industry Certification Highlights
 
@@ -25,8 +25,6 @@
 | Google Ads Search  | Certified Tester Advanced Level Agile Technical Tester            |
 | Google Analytics   | Certified Tester AT*SQA Test Automation                           |
 |                    | Certified Tester AT*SQA API Testing                               |
-
-*This list is not comprehensive
 
 ## PPC Account QA Framework
 
