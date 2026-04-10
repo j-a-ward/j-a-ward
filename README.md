@@ -32,7 +32,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/j-a-ward/ppc-account-qa-framework">
-        <img src="https://github.com/j-a-ward/j-a-ward/blob/9ec0449618bf983577dd652a3bdde4d67a971fcf/images/justin-morgan-VxLhYXuLQN8-unsplash.jpg"
+        <img src="https://github.com/j-a-ward/j-a-ward/blob/main/images/justin-morgan-GnpmcIEPUlI-unsplash(640).jpg?raw=true"
              alt="PPC Account QA Framework"
              style="object-fit:cover; border-radius:8px;"/>
       </a>
@@ -54,7 +54,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
-        <img src="https://github.com/j-a-ward/j-a-ward/blob/9ec0449618bf983577dd652a3bdde4d67a971fcf/images/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg"
+        <img src="https://github.com/j-a-ward/j-a-ward/blob/main/images/stephen-dawson-qwtCeJ5cLYs-unsplash(640).jpg?raw=true"
              alt="Google Ads Account Structure Implementation"
              style="object-fit:cover; border-radius:8px;"/>
       </a>
@@ -76,7 +76,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing">
-        <img src="https://github.com/j-a-ward/j-a-ward/blob/2330c4181b5bcb3a3ad79235767f2954d7e0ffe5/images/pexels-pixabay-267415.jpg" 
+        <img src="https://github.com/j-a-ward/j-a-ward/blob/main/images/firmbee-seo-793030_640.jpg?raw=true" 
              alt="SEO Audit"
              style="object-fit:cover; border-radius:8px;"/>
       </a>
