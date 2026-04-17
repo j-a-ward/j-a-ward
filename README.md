@@ -18,11 +18,11 @@
 
 ## Industry Certification Highlights
 
-| Google             | ISTQB® / AT*SQA                                                   |
-|------------------- |-----------------------------------------------------------------  |
-| Google Ads Search  | Certified Tester Advanced Level Agile Technical Tester            |
-| Google Analytics   | Certified Tester AT*SQA Test Automation                           |
-|                    | Certified Tester AT*SQA API Testing                               |
+| Google                   | ISTQB® / AT*SQA                                                   |
+|--------------------------|-----------------------------------------------------------------  |
+| Google Ads Search        | Certified Tester Advanced Level Agile Technical Tester            |
+| Google Analytics (GA4)   | Certified Tester AT*SQA Test Automation                           |
+|                          | Certified Tester AT*SQA API Testing                               |
 
 ## PPC Account QA Framework
 
