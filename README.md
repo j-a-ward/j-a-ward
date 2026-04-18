@@ -85,7 +85,7 @@
         </a>
       <br/>
       <b>Conducted an on-page and technical SEO audit to identify content hierarchy issues.</b><br/>
-      <sub>Tags: Google Search Console, Moz, Screaming Frog SEO Spider, PageSpeed Insights, Rich Results Test, Chrome DevTools, SERP</sub><br/>
+      <sub>Tags: Google Search Console, Moz, Screaming Frog SEO Spider Website Crawler, Google PageSpeed Insights, Chrome DevTools</sub><br/>
    </td>
   </tr>
 </table>
