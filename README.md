@@ -23,6 +23,7 @@
 | Google Ads Search        | Certified Tester Advanced Level Agile Technical Tester            |
 | Google Analytics (GA4)   | Certified Tester AT*SQA Test Automation                           |
 |                          | Certified Tester AT*SQA API Testing                               |
+|                          | Certified Tester Foundation Level                                 |
 
 ## PPC Account QA Framework
 
