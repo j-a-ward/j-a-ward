@@ -2,11 +2,11 @@
 
 ### Paid Search (PPC) Analyst
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-Follow-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-a-ward/) &nbsp; [![Google Ads](https://img.shields.io/badge/Google_Ads-Certified-4285F4.svg?style=for-the-badge&logo=googleads)](https://skillshop.credential.net/d59d4ccf-45c8-4719-a0a8-8e4bc144a0c2#acc.j7L1AS4F) &nbsp; [![ISTQB® / AT*SQA](https://img.shields.io/badge/ISTQB®_/_AT*SQA-Certified-EA4335.svg?&style=for-the-badge)](https://atsqa.org/certified-testers/profile/aefd9dba85e84541b7fd7aadb7bbf23c) &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?&style=for-the-badge)](https://github.com/j-a-ward/j-a-ward/blob/dd70cbe146bc005e626323301aa7a2fb795f2869/LICENSE)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Follow-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-a-ward/) &nbsp; [![Google Ads](https://img.shields.io/badge/Google_Ads-Certified-4285F4.svg?style=for-the-badge&logo=googleads)](https://skillshop.credential.net/d59d4ccf-45c8-4719-a0a8-8e4bc144a0c2#acc.j7L1AS4F) &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?&style=for-the-badge)](https://github.com/j-a-ward/j-a-ward/blob/dd70cbe146bc005e626323301aa7a2fb795f2869/LICENSE)
 
 - Google Ads Certified Professional with a data-driven, process-oriented approach to search engine marketing (SEM).
 - Experience in building, analyzing, and optimizing Google Ads Search campaigns using structured account architecture and search query analysis.
-- Background in Agile Quality Assurance (CTAL-ATT), applying analytical thinking to validate performance and reduce wasted ad spending.
+- Background in Agile Quality Assurance (ISTQB® Certified), applying structured testing principles to improve tracking accuracy, campaign validation, and reduce wasted ad spend.
 - Passionate about improving campaign efficiency, lead quality, and measurable business outcomes through continuous optimization.
 
 
