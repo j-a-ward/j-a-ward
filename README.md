@@ -10,21 +10,6 @@
 - Passionate about improving campaign efficiency, lead quality, and measurable business outcomes through continuous optimization.
 
 
-
-## Analytics Toolkit
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,github,debian,html,mint,kali,postman,bash,androidstudio,apple,windows&theme=dark)](https://skillicons.dev)
-
-*This is not a comprehensive list
-
-## Industry Certification Highlights
-
-| PPC / Analytics          | Quality Assurance / Testing                                       |
-|--------------------------|-----------------------------------------------------------------  |
-| Google Ads Search        | Certified Tester Advanced Level Agile Technical Tester            |
-| Google Analytics (GA4)   | Certified Tester AT*SQA Test Automation                           |
-| Google Ads Measurement   | Certified Tester AT*SQA API Testing                               |
-|                          | Certified Tester Foundation Level                                 |
-
 ## PPC Account QA Framework
 
 <table>
@@ -90,3 +75,15 @@
    </td>
   </tr>
 </table>
+
+
+
+## Industry Certification Highlights
+
+| PPC / Analytics          | Quality Assurance / Testing                                       |
+|--------------------------|-----------------------------------------------------------------  |
+| Google Ads Search        | Certified Tester Advanced Level Agile Technical Tester            |
+| Google Analytics (GA4)   | Certified Tester AT*SQA Test Automation                           |
+| Google Ads Measurement   | Certified Tester AT*SQA API Testing                               |
+|                          | Certified Tester Foundation Level                                 |
+
