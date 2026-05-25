@@ -6,7 +6,7 @@
 
 - Google Ads and Analytics Certified Professional with a data-driven, process-oriented approach to search engine marketing (SEM).
 - Experience in building, analyzing, and optimizing Google Ads Search campaigns using structured account architecture and search query analysis.
-- Background in Agile Quality Assurance (ISTQB® Certified), applying structured testing principles to improve tracking accuracy, campaign validation, and reduce wasted ad spend.
+- Background in Quality Assurance (ISTQB® Certified), applying structured testing principles to improve tracking accuracy, campaign validation, and reduce wasted ad spend.
 - Passionate about improving campaign efficiency, lead quality, and measurable business outcomes through continuous optimization.
 
 
