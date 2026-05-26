@@ -10,14 +10,14 @@
 - Passionate about improving campaign efficiency, lead quality, and measurable business outcomes through continuous optimization.
 
 
-## PPC Account QA Framework
+## PPC Account Validation Framework 
 
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/j-a-ward/ppc-account-qa-framework">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/main/images/justin-morgan-GnpmcIEPUlI-unsplash(640).jpg?raw=true"
-             alt="PPC Account QA Framework"
+             alt="PPC Account Validation Framework"
              style="object-fit:cover; border-radius:8px;"/>
       </a>
       <br/> 
