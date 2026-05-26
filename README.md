@@ -15,15 +15,15 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/j-a-ward/ppc-account-qa-framework">
+      <a href="https://github.com/j-a-ward/ppc-account-validation-framework">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/main/images/justin-morgan-GnpmcIEPUlI-unsplash(640).jpg?raw=true"
              alt="PPC Account Validation Framework"
              style="object-fit:cover; border-radius:8px;"/>
       </a>
       <br/> 
-        <a href="https://github.com/j-a-ward/ppc-account-qa-framework">
+        <a href="https://github.com/j-a-ward/ppc-account-validation-framework">
           <img src="https://img.shields.io/badge/View_Framework-%230077B5.svg?&style=for-the-badge&logoColor=white"  
-            alt="https://github.com/j-a-ward/ppc-account-qa-framework"/>
+            alt="https://github.com/j-a-ward/ppc-account-validation-framework"/>
         </a>
       <br/>
       <b>Developed a framework to build and audit high-performing PPC campaigns.</b><br/>
