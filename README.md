@@ -20,12 +20,12 @@
     <td align="center" width="33%">
       <a href="https://github.com/j-a-ward/Basic-Employee-Onboarding-AD-RBAC-">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/main/images/justin-morgan-GnpmcIEPUlI-unsplash(640).jpg?raw=true"
-             alt="PPC Account Validation Framework"
+             alt="Basic Employee Onboarding (AD) (RBAC)"
              style="object-fit:cover; border-radius:8px;"/>
       </a>
       <br/> 
         <a href="https://github.com/j-a-ward/Basic-Employee-Onboarding-AD-RBAC-">
-          <img src="https://img.shields.io/badge/View_Framework-%230077B5.svg?&style=for-the-badge&logoColor=white"  
+          <img src="https://img.shields.io/badge/View_Repository-%230077B5.svg?&style=for-the-badge&logoColor=white"  
             alt="https://github.com/j-a-ward/Basic-Employee-Onboarding-AD-RBAC-"/>
         </a>
       <br/>
