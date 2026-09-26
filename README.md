@@ -5,9 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Follow-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-a-ward/) &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?&style=for-the-badge)](https://github.com/j-a-ward/j-a-ward/blob/dd70cbe146bc005e626323301aa7a2fb795f2869/LICENSE)
 
 -   **Systems Management:** Applying a data-driven, analytical approach to configure, monitor, and audit enterprise IT infrastructure and directory environments.
--   **Validation & Compliance:** Leveraging a QA mindset (ISTQB® Certified) to audit system permissions, identify directory security risks, and support alignment with applicable security standards and compliance requirements.
--   **Optimization & Technical Support:** Focusing on improving system reliability, reducing identity governance risks (such as directory sprawl), and troubleshooting end-user access issues.
--   **Digital Marketing Architecture & Testing:** Utilizing systems thinking and QA methodologies to validate configurations through controlled testing and maintain disciplined account architecture.
+-   **Validation & Compliance:** Leveraging a QA mindset (ISTQB® Certified) to audit user access permissions, identify directory security risks, and support alignment with applicable security standards and compliance requirements.
+-   **Optimization & Technical Support:** Focusing on improving service reliability, reducing identity governance risks (such as directory sprawl), and troubleshooting end-user access issues.
+-   **Digital Marketing Systems & Testing:** Utilizing QA methodologies and controlled testing to validate advertising configurations and maintain disciplined account architecture.
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 
-## Digital Marketing Technology
+## Digital Marketing Systems
 
 ### PPC Account Validation Framework 
 
