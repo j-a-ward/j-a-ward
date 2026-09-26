@@ -5,9 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Follow-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-a-ward/) &nbsp; [![ISTQB / AT*SQA](https://img.shields.io/badge/ISTQB_/_AT*SQA-CERTIFIED-4285F4.svg?style=for-the-badge&logo=ISTQB/AT*SQA&logoColor=white)](https://atsqa.org/certified-testers/profile/aefd9dba85e84541b7fd7aadb7bbf23c) &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?&style=for-the-badge)](https://github.com/j-a-ward/j-a-ward/blob/dd70cbe146bc005e626323301aa7a2fb795f2869/LICENSE)
 
 -   **Systems Management:** Applying a data-driven, analytical approach to configure, monitor, and audit enterprise IT infrastructure and directory environments.
--   **Infrastructure Architecture:** Building secure, centralized environments by applying hands-on experience with greenfield Active Directory deployments featuring structured organizational unit (OU) hierarchies.
 -   **Validation & Compliance:** Leveraging a QA mindset (ISTQB® Certified) to audit system permissions, identify directory security risks, and support alignment with applicable security standards and compliance requirements.
--   **Optimization & Technical Support:** Focused on improving system reliability, reducing identity governance risks (such as directory sprawl), and troubleshooting end-user access issues methodically.
+-   **Optimization & Technical Support:** Focusing on improving system reliability, reducing identity governance risks (such as directory sprawl), and troubleshooting end-user access issues.
+-   **Digital Marketing Architecture & Testing:** Utilizing systems thinking and QA methodologies to validate configurations through controlled testing and maintain disciplined account architecture.
 
 ---
 
