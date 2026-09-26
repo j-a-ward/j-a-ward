@@ -111,8 +111,8 @@
 
 | PPC / Analytics          | Quality Assurance / Testing                                       |
 |--------------------------|-----------------------------------------------------------------  |
-| Google Ads Search        | Certified Tester Advanced Level Agile Technical Tester (ISTQB®)   |
-| Google Analytics (GA4)   | Certified Tester AT*SQA Test Automation                           |
-| Google Ads Measurement   | Certified Tester AT*SQA API Testing                               |
-|                          | Certified Tester Foundation Level (ISTQB®)                        |
+| Google Ads Search        | ISTQB® Certified Tester Advanced Level Agile Technical Tester     |
+| Google Analytics (GA4)   | ISTQB® Certified Tester Foundation Level                          |
+| Google Ads Measurement   | AT*SQA Certified Tester - Test Automation                         |
+|                          | AT*SQA Certified Tester - API Testing                             |
 
