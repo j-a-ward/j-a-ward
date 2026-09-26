@@ -1,4 +1,4 @@
-# James Ward 
+# James Ward
 
 ### IT Systems Specialist
 
@@ -13,24 +13,24 @@
 
 ## IT Systems & Infrastructure
 
-### Basic Employee Onboarding (Active Directory & Role-Based Access Control) 
+### Basic Employee Onboarding (AD) (RBAC) 
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/j-a-ward/ppc-account-validation-framework">
+      <a href="https://github.com/j-a-ward/Basic-Employee-Onboarding-AD-RBAC-">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/main/images/justin-morgan-GnpmcIEPUlI-unsplash(640).jpg?raw=true"
              alt="PPC Account Validation Framework"
              style="object-fit:cover; border-radius:8px;"/>
       </a>
       <br/> 
-        <a href="https://github.com/j-a-ward/ppc-account-validation-framework">
+        <a href="https://github.com/j-a-ward/Basic-Employee-Onboarding-AD-RBAC-">
           <img src="https://img.shields.io/badge/View_Framework-%230077B5.svg?&style=for-the-badge&logoColor=white"  
-            alt="https://github.com/j-a-ward/ppc-account-validation-framework"/>
+            alt="https://github.com/j-a-ward/Basic-Employee-Onboarding-AD-RBAC-"/>
         </a>
       <br/>
-      <b>Developed a framework to build and audit high-performing PPC campaigns </b><br/>
-      <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search                 Ads</sub><br/>
+      <b> Active Directory infrastructure rebuild with Role-Based Access Control </b><br/>
+      <sub>Tags: Windows Server, Active Directory Domain Services (AD DS), Oracle VM VirtualBox, UTM, Role-Based Access Control (RBAC)</sub><br/>
     </td>
   </tr>
 </table>
@@ -55,7 +55,7 @@
             alt="https://github.com/j-a-ward/ppc-account-validation-framework"/>
         </a>
       <br/>
-      <b>Developed a framework to build and audit high-performing PPC campaigns </b><br/>
+      <b> Developed a framework to build and audit high-performing PPC campaigns </b><br/>
       <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search                 Ads</sub><br/>
     </td>
   </tr>
@@ -77,7 +77,7 @@
             alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/>
         </a>
       <br/>
-      <b>Implemented a Google Ads Search campaign structure for a local service business </b><br/>
+      <b> Implemented a Google Ads Search campaign structure for a local service business </b><br/>
       <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search                 Ads</sub><br/>
    </td>
   </tr>
@@ -99,7 +99,7 @@
             alt="https://docs.google.com/document/d/1N_nJNChkrn8TumQG4T9kW5F1lLCZYW4s5l4rmFAqZRE/edit?usp=sharing"/>
         </a>
       <br/>
-      <b>Conducted an on-page and technical SEO audit to identify content hierarchy issues </b><br/>
+      <b> Conducted an on-page and technical SEO audit to identify content hierarchy issues </b><br/>
       <sub>Tags: Google Search Console, Moz, Screaming Frog SEO Spider Website Crawler, Google PageSpeed Insights, Chrome DevTools</sub><br/>
    </td>
   </tr>
