@@ -13,14 +13,14 @@
 
 ## IT Systems & Infrastructure
 
-### Basic Employee Onboarding (AD) (RBAC) 
+### Basic Employee Onboarding (AD)(RBAC) 
 
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/j-a-ward/Basic-Employee-Onboarding-AD-RBAC-">
-        <img src="https://github.com/j-a-ward/j-a-ward/blob/main/images/justin-morgan-GnpmcIEPUlI-unsplash(640).jpg?raw=true"
-             alt="Basic Employee Onboarding (AD) (RBAC)"
+        <img src="https://github.com/j-a-ward/j-a-ward/blob/2b57d97cf633481490a82185226b1e6ea50e51fd/images/zulfugar-karimov--nBClEqKKVM-unsplash.jpg"
+             alt="Basic Employee Onboarding (AD)(RBAC)"
              style="object-fit:cover; border-radius:8px;"/>
       </a>
       <br/> 
