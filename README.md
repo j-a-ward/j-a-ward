@@ -1,8 +1,6 @@
-# James Ward
+# James Ward 
 
 ### IT Systems Specialist
-
-I am an entry-level **IT Systems Specialist** with a background in software quality assurance. I apply a structured, analytical approach to building, validating, and securing IT infrastructure.
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Follow-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-a-ward/) &nbsp; [![ISTQB / AT*SQA](https://img.shields.io/badge/ISTQB_/_AT*SQA-CERTIFIED-4285F4.svg?style=for-the-badge&logo=ISTQB/AT*SQA&logoColor=white)](https://atsqa.org/certified-testers/profile/aefd9dba85e84541b7fd7aadb7bbf23c) &nbsp; &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?&style=for-the-badge)](https://github.com/j-a-ward/j-a-ward/blob/dd70cbe146bc005e626323301aa7a2fb795f2869/LICENSE)
 
@@ -11,8 +9,11 @@ I am an entry-level **IT Systems Specialist** with a background in software qual
 -   **Validation & Compliance:** Leveraging a QA mindset (ISTQB® Certified) to audit system permissions, identify directory security risks, and support alignment with applicable security standards and compliance requirements.
 -   **Optimization & Technical Support:** Focused on improving system reliability, reducing identity governance risks (such as directory sprawl), and troubleshooting end-user access issues methodically.
 
+---
 
-## PPC Account Validation Framework 
+## IT Systems & Infrastructure
+
+### Basic Employee Onboarding (Active Directory & Role-Based Access Control) 
 
 <table>
   <tr>
@@ -34,7 +35,33 @@ I am an entry-level **IT Systems Specialist** with a background in software qual
   </tr>
 </table>
 
-## Google Ads Account Structure Implementation 
+---
+
+## Digital Marketing Technology
+
+### PPC Account Validation Framework 
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/j-a-ward/ppc-account-validation-framework">
+        <img src="https://github.com/j-a-ward/j-a-ward/blob/main/images/justin-morgan-GnpmcIEPUlI-unsplash(640).jpg?raw=true"
+             alt="PPC Account Validation Framework"
+             style="object-fit:cover; border-radius:8px;"/>
+      </a>
+      <br/> 
+        <a href="https://github.com/j-a-ward/ppc-account-validation-framework">
+          <img src="https://img.shields.io/badge/View_Framework-%230077B5.svg?&style=for-the-badge&logoColor=white"  
+            alt="https://github.com/j-a-ward/ppc-account-validation-framework"/>
+        </a>
+      <br/>
+      <b>Developed a framework to build and audit high-performing PPC campaigns </b><br/>
+      <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search                 Ads</sub><br/>
+    </td>
+  </tr>
+</table>
+
+### Google Ads Account Structure Implementation 
 
 <table>
   <tr>
@@ -56,7 +83,7 @@ I am an entry-level **IT Systems Specialist** with a background in software qual
   </tr>
 </table>
 
-## SEO Audit
+### SEO Audit
 
 <table>
   <tr>
@@ -78,7 +105,7 @@ I am an entry-level **IT Systems Specialist** with a background in software qual
   </tr>
 </table>
 
-
+---
 
 ## Industry Certification Highlights
 
