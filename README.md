@@ -11,10 +11,7 @@
 
 ---
 
--   **Systems Management:** Applying a data-driven, analytical approach to configure, monitor, and audit enterprise IT infrastructure and directory environments.
--   **Validation & Compliance:** Leveraging a QA mindset (ISTQB® Certified) to audit user access permissions, identify directory security risks, and support alignment with applicable security standards and compliance requirements.
--   **Optimization & Technical Support:** Focusing on improving service reliability, reducing identity governance risks (such as directory sprawl), and troubleshooting end-user access issues.
--   **Digital Marketing Systems & Testing:** Utilizing QA methodologies and controlled testing to validate advertising configurations and maintain disciplined account architecture.
+I apply an analytical, QA-driven approach to configure, validate, and troubleshoot IT infrastructure and digital systems. The projects below demonstrate how I leverage structured testing and configuration audits to ensure data accuracy, strengthen identity access management, and optimize digital account architectures. Explore the documentation below to see how I systematically break down and solve technical challenges.
 
 ---
 
