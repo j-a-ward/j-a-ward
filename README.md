@@ -1,8 +1,15 @@
-# James Ward
+<h1 align="center">James Ward</h1>
 
-### IT Systems Specialist
+<h3 align="center">IT Systems Specialist</h3>
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-Follow-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-a-ward/) &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?&style=for-the-badge)](https://github.com/j-a-ward/j-a-ward/blob/dd70cbe146bc005e626323301aa7a2fb795f2869/LICENSE)
+   <p align="center">
+      <a href="https://www.linkedin.com/in/james-a-ward/">
+         <img src="https://img.shields.io/badge/Linkedin-Follow-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="https://github.com/j-a-ward/j-a-ward/blob/dd70cbe146bc005e626323301aa7a2fb795f2869/LICENSE">
+         <img src="https://img.shields.io/badge/License-MIT-green.svg?&style=for-the-badge"/></a>
+   </p>
+
+---
 
 -   **Systems Management:** Applying a data-driven, analytical approach to configure, monitor, and audit enterprise IT infrastructure and directory environments.
 -   **Validation & Compliance:** Leveraging a QA mindset (ISTQB® Certified) to audit user access permissions, identify directory security risks, and support alignment with applicable security standards and compliance requirements.
@@ -11,7 +18,7 @@
 
 ---
 
-## IT Systems & Infrastructure
+<h2 align="center">IT Systems & Infrastructure</h2>
 
 ### Basic Employee Onboarding (AD)(RBAC) 
 
@@ -37,7 +44,7 @@
 
 ---
 
-## Digital Marketing Systems
+<h2 align="center">Digital Marketing Systems</h2>
 
 ### PPC Account Validation Framework 
 
@@ -107,7 +114,7 @@
 
 ---
 
-## Industry Certification Highlights
+<h2 align="center">Industry Certification Highlights</h2>
 
 | PPC / Analytics          | Quality Assurance / Testing                                       |
 |--------------------------|-----------------------------------------------------------------  |
