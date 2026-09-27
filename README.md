@@ -11,7 +11,7 @@
 
 ---
 
-I apply an analytical, QA-driven approach to configure, validate, and troubleshoot IT infrastructure and digital systems. The projects below demonstrate how I leverage structured testing and configuration audits to ensure data accuracy, strengthen identity access management, and optimize digital account architectures. Explore the documentation below to see how I systematically break down and solve technical challenges.
+I apply an analytical, QA-driven approach to configure, validate, and troubleshoot IT infrastructure and digital systems. The projects below demonstrate how I leverage structured testing and configuration audits to ensure data accuracy, strengthen identity and access management, and optimize digital account architectures. Explore the documentation below to see how I systematically break down and solve technical challenges.
 
 ---
 
