@@ -113,10 +113,10 @@ I apply an analytical, QA-driven approach to configure, validate, and troublesho
 
 <h2 align="center">Industry Certification Highlights</h2>
 
-| PPC / Analytics          | Quality Assurance / Testing                                       |
-|--------------------------|-----------------------------------------------------------------  |
-| Google Ads Search        | ISTQB® Certified Tester Advanced Level Agile Technical Tester     |
-| Google Analytics (GA4)   | ISTQB® Certified Tester Foundation Level                          |
-| Google Ads Measurement   | AT*SQA Certified Tester - Test Automation                         |
-|                          | AT*SQA Certified Tester - API Testing                             |
+| Quality Assurance / Testing                                       | PPC / Analytics           | 
+|-------------------------------------------------------------------|---------------------------|
+| ISTQB® Certified Tester Advanced Level Agile Technical Tester     | Google Ads Search         | 
+| ISTQB® Certified Tester Foundation Level                          | Google Analytics (GA4)    | 
+| AT*SQA Certified Tester - Test Automation                         | Google Ads Measurement    |
+| AT*SQA Certified Tester - API Testing                             |                           |
 
