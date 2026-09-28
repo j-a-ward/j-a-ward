@@ -1,6 +1,6 @@
 <h1 align="center">James Ward</h1>
 
-<h3 align="center">IT Systems & Support Specialist</h3>
+<h3 align="center"><em>IT Systems & Support Specialist<em></h3>
 
    <p align="center">
       <a href="https://www.linkedin.com/in/james-a-ward/">
