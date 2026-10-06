@@ -36,7 +36,7 @@ I apply an analytical, QA-driven approach to configure, validate, and troublesho
         </a>
       <br/>
       <b> Active Directory (AD) infrastructure rebuild with Role-Based Access Control (RBAC) </b><br/>
-      <sub>Tags: Windows Server, Active Directory Domain Services (AD DS), Oracle VM VirtualBox, UTM, Role-Based Access Control (RBAC)</sub><br/>
+      <sub>Tags: Windows Server, Active Directory Domain Services (AD DS), Oracle VM VirtualBox, Role-Based Access Control (RBAC), Linux</sub><br/>
     </td>
   </tr>
 </table>
