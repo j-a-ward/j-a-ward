@@ -1,5 +1,9 @@
 <h1 align="center">James Ward</h1>
 
+<p align="center">
+  <em>Optimizing Systems | Search Engine Marketing (SEM) | IT Support | Technical & Analytical Problem-Solving</em>
+</p>
+
    <p align="center">
       <a href="https://www.linkedin.com/in/james-a-ward/">
          <img src="https://img.shields.io/badge/Linkedin-Follow-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
