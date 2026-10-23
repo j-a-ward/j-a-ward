@@ -1,9 +1,5 @@
 <h1 align="center">James Ward</h1>
 
-<h3 align="center">
-   <em>IT Systems & Support Specialist</em>
-</h3>
-
    <p align="center">
       <a href="https://www.linkedin.com/in/james-a-ward/">
          <img src="https://img.shields.io/badge/Linkedin-Follow-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -14,32 +10,6 @@
 ---
 
 I apply an analytical, QA-driven approach to configure, validate, and troubleshoot IT infrastructure and digital systems. The projects below demonstrate how I leverage structured testing and configuration audits to ensure data accuracy, assess identity and access management controls, and optimize digital account architecture. Explore the documentation below to see how I systematically break down and solve technical challenges.
-
----
-
-<h2 align="center">IT Systems & Infrastructure</h2>
-
-### Basic Employee Onboarding (AD) (RBAC) 
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/j-a-ward/Basic-Employee-Onboarding-AD-RBAC-">
-        <img src="https://github.com/j-a-ward/j-a-ward/blob/2b57d97cf633481490a82185226b1e6ea50e51fd/images/zulfugar-karimov--nBClEqKKVM-unsplash.jpg"
-             alt="Basic Employee Onboarding (AD) (RBAC)"
-             style="object-fit:cover; border-radius:8px;"/>
-      </a>
-      <br/> 
-        <a href="https://github.com/j-a-ward/Basic-Employee-Onboarding-AD-RBAC-">
-          <img src="https://img.shields.io/badge/View_Repository-%230077B5.svg?&style=for-the-badge&logoColor=white"  
-            alt="https://github.com/j-a-ward/Basic-Employee-Onboarding-AD-RBAC-"/>
-        </a>
-      <br/>
-      <b> Active Directory (AD) infrastructure rebuild with Role-Based Access Control (RBAC) </b><br/>
-      <sub>Tags: Windows Server, Active Directory Domain Services (AD DS), Oracle VM VirtualBox, Role-Based Access Control (RBAC), Linux</sub><br/>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -108,6 +78,32 @@ I apply an analytical, QA-driven approach to configure, validate, and troublesho
       <b> Conducted an on-page and technical SEO audit to identify content hierarchy issues </b><br/>
       <sub>Tags: Google Search Console, Moz, Screaming Frog SEO Spider Website Crawler, Google PageSpeed Insights, Chrome DevTools</sub><br/>
    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">IT Systems & Infrastructure</h2>
+
+### Basic Employee Onboarding (AD) (RBAC) 
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/j-a-ward/Basic-Employee-Onboarding-AD-RBAC-">
+        <img src="https://github.com/j-a-ward/j-a-ward/blob/2b57d97cf633481490a82185226b1e6ea50e51fd/images/zulfugar-karimov--nBClEqKKVM-unsplash.jpg"
+             alt="Basic Employee Onboarding (AD) (RBAC)"
+             style="object-fit:cover; border-radius:8px;"/>
+      </a>
+      <br/> 
+        <a href="https://github.com/j-a-ward/Basic-Employee-Onboarding-AD-RBAC-">
+          <img src="https://img.shields.io/badge/View_Repository-%230077B5.svg?&style=for-the-badge&logoColor=white"  
+            alt="https://github.com/j-a-ward/Basic-Employee-Onboarding-AD-RBAC-"/>
+        </a>
+      <br/>
+      <b> Active Directory (AD) infrastructure rebuild with Role-Based Access Control (RBAC) </b><br/>
+      <sub>Tags: Windows Server, Active Directory Domain Services (AD DS), Oracle VM VirtualBox, Role-Based Access Control (RBAC), Linux</sub><br/>
+    </td>
   </tr>
 </table>
 
