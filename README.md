@@ -1,7 +1,7 @@
 <h1 align="center">James Ward</h1>
 
 <p align="center">
-  <em>Optimizing Systems | Search Engine Marketing (SEM) | IT Support | Technical & Analytical Problem-Solving</em>
+  <em> Digital Marketing • IT Systems & Support • QA </em>
 </p>
 
    <p align="center">
